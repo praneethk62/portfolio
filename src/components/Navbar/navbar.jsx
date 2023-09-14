@@ -1,11 +1,11 @@
-import React from 'react'
-import './Navbar.css'
-import { Link } from 'react-scroll'
-import Contactimg from '../../assets/contact.png'
+import React from "react";
+import "./Navbar.css";
+import { Link } from "react-scroll";
+import Contactimg from "../../assets/contact.png";
 const Navbar = () => {
   return (
     <nav className="navbar">
-     <div className='header'>praneeth k</div>
+      <div className="header">praneeth k</div>
       <div className="desktopmenu">
         <Link className="desktopmenulistitem">Home</Link>
         <Link className="desktopmenulistitem">About</Link>
@@ -18,6 +18,6 @@ const Navbar = () => {
       </button>
     </nav>
   );
-}
+};
 
-export default Navbar
+export default Navbar;
