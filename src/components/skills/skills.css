@@ -2,13 +2,14 @@
 #skills{
     overflow: hidden;
     width: 100vw;
-  max-width: 60rem;
+  max-width: 90rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center; 
   margin: 0 auto;   
+ 
 }
 .skillTitle{
     font-size: 3rem;        
@@ -20,8 +21,8 @@ margin-bottom: 1.5rem;
 }
 .skilldescription{
     font-weight: 300;
-    font-size: 1rem;
-    max-width: 50rem;
+    font-size: 1.2rem;
+    max-width: 70rem;
     padding: 0 2rem;
     
 }
@@ -30,6 +31,7 @@ margin-bottom: 1.5rem;
     width: 100vw;
     max-width: 80%;
     text-align: left;
+   
 }
 
 

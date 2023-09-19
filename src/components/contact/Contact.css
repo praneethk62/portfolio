@@ -2,7 +2,7 @@
  
  .contactDesc{
     padding: 1rem;
-    font-size: medium;
+    font-size: 1.2rem;
     font-weight: 300;
 }
 .contactForm{
@@ -12,12 +12,12 @@
     align-items: center;
     justify-content: center;
     width: 90vw;
-    max-width: 60rem;
+    max-width: 70rem;
 }
 .name, .email, .msg{
     font-size: medium;
     width: 100%;
-    max-width: 40rem;
+    max-width: 60rem;
     margin: 0.5rem;
     padding: 0.5rem 1rem;
     color: white;
