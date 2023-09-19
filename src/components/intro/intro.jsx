@@ -12,7 +12,7 @@ const Intro = () => {
         <span className="introText">
           I'm <span className="introName">Praneeth k</span> <br />
           Full-stack Developer
-        </span>
+        </span>   
         <p className="intropara">
           I am a full-stack developer who crafts innovative digital solutions by <br /> seamlessly combining frontend and backend technologies to deliver <br /> exceptional user experiences
         </p>

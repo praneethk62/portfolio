@@ -1,4 +1,6 @@
-.contactDesc{
+
+ 
+ .contactDesc{
     padding: 1rem;
     font-size: medium;
     font-weight: 300;
@@ -24,7 +26,7 @@
     background:  rgb(40,40,40);
 }
 #contactPage{
-   min-height: calc(100vh-4rem);
+   min-height: calc(100vh- 4rem);
    width: 100vw;
    max-width: 60rem;
    margin: 0 auto;
@@ -45,7 +47,7 @@
     padding: 0.75rem 3.5rem;
     margin: 2rem;
     border-radius: 0.5rem;
-    
+    cursor: pointer;
 }
 .links{
     display: flex;
@@ -58,4 +60,5 @@
     width: 3rem;
     margin: 0 0.75rem;
    border-radius: 1rem;
+   cursor: pointer;
 }

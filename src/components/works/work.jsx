@@ -15,9 +15,12 @@ const Work = () => {
         inspired.
       </span>
       <div className="workimgs">
-        <img src={protfolio1} alt="protfolio" className="worksimg" />
-        <img src={protfolio2} alt="protfolio" className="worksimg" />
-        
+        <a href="https://github.com/praneethk62/project">
+          <img src={protfolio1} alt="protfolio" className="worksimg" />
+        </a>
+        <a href="https://github.com/praneethk62/portfolio">
+          <img src={protfolio2} alt="protfolio" className="worksimg" />
+        </a>
       </div>
     </section>
   );

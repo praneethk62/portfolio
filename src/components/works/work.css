@@ -1,6 +1,6 @@
 #works{
     margin: 0 auto;
-    min-height: calc(100vh-4rem);
+    min-height: calc(100vh- 4rem);
     width: 100vw;
     max-width: 60rem;
     display: flex;
@@ -13,6 +13,7 @@
 .WorksTitle{
     margin: 1rem 0;
     font-size: 3rem;
+    
 }
 .worksdesc{
     font-weight: 300;
@@ -30,9 +31,10 @@
 }
 .worksimg{
       object-fit: cover;
-      height: 20rem;
+      height: 15rem;
       width: 20rem;
       margin: 2rem;
+      cursor: pointer;
 }
 @media screen and (max-width:585px){
     .worksimg{
